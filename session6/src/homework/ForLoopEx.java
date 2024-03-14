@@ -5,11 +5,10 @@ public class ForLoopEx {
 
         //PRINT 1 TO 10 USING FOR
 
-        //System.out.println("Output is : ");
+        System.out.println("Output is : ");
 
-        //for(int i = 1; i <= 10; i++)
-        {
-            //System.out.println(i);
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(i);
         }
 
         //PRINT EVEN NUMBERS FROM 1 TO 10 USING FOR AND IF STATEMENT

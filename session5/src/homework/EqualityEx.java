@@ -8,8 +8,8 @@ public class EqualityEx {
 
         System.out.println( firstNumber == secondNumber);
 
-        String firstString = "10";
-        String secondString = "20";
+        String firstString = String.valueOf(firstNumber);
+        String secondString = String.valueOf(secondNumber);
 
         System.out.println( firstString.equals(secondString));
 
