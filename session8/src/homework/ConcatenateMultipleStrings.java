@@ -9,6 +9,6 @@ public class ConcatenateMultipleStrings {
         str.append("-");
         str.append("World");
 
-        System.out.println(str.toString());
+        System.out.println(str);
     }
 }
