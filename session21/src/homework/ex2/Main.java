@@ -6,6 +6,8 @@ import java.util.List;
 
 public class Main {
 
+    //    (rewritten for pull-request)
+
     public static void main(String[] args) {
 
         List<String> fruits = new ArrayList<>();
